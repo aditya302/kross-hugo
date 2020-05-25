@@ -2,7 +2,7 @@ baseURL = "https://thirdeye.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Thirdeye"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -21,15 +21,15 @@ name = "Contact"
 weight = 4
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+author = ""
+copyright = "Copyright &copy; 2020 Thirdeye"
+description = ""
 email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
 phone = "+880 2544 658 256"
-theme_color = "#41228e"
+theme_color = "#2a9180"
 [params.contact]
 enable = true
 form_action = "#"
