@@ -13,7 +13,7 @@ item:
   - branding
 - title: Portfolio Item
   image: images/portfolio/item-3.png
-  project_url: http://examplesite.com
+  project_url: ''
   categories:
   - illustration
 - title: Portfolio Item
