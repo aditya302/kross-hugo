@@ -23,7 +23,7 @@ item:
   - design
 - title: Portfolio Item
   image: images/portfolio/item-8.png
-  project_url: http://examplesite.com
+  project_url: ''
   categories:
   - illustration
   - development
