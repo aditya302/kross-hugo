@@ -34,7 +34,7 @@ item:
   - design
 - title: Portfolio Item
   image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
+  project_url: ''
   categories:
   - branding
 - title: Portfolio Item
