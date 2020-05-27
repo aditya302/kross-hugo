@@ -133,5 +133,5 @@ clients_logo_slider:
     URL: "#"
   title: ''
 blog:
-  enable: true
+  enable: false
   title: Blogs
