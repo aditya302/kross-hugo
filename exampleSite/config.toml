@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "India"
 author = ""
 copyright = "Copyright &copy; 2020 Thirdeye"
 description = ""
-email = "steve.fruits@email.com"
+email = "royalat302@outlook.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "Not Available "
 theme_color = "#8a17d1"
 [params.contact]
 enable = true
