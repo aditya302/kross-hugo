@@ -6,3 +6,4 @@ image = "/images/paint-text.jpg"
 title = "My New Awesome title"
 
 +++
+This blog has some great content
