@@ -1,0 +1,8 @@
++++
+date = 2021-01-11T18:30:00Z
+description = "Yes this my new logo design."
+draft = true
+image = "/images/paint-text.jpg"
+title = "My New Awesome title"
+
++++
